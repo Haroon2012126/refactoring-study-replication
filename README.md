@@ -6,15 +6,3 @@ The dataset combines automated refactoring detection results from *RefactoringMi
 
 ---
 
-### Repository Structure
-/data/
-├── refactoring_data_Ant.xlsx
-├── refactoring_data_JMeter.xlsx
-├── refactoring_data_JFreeChart.xlsx
-├── CommitData_AllProjects.xlsx
-└── VersionWindows_Overview.xlsx
-
-/refactoringminer_output/
-/ant/
-/jmeter/
-/jfreechart/
